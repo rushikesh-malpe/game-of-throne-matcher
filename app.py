@@ -20,7 +20,7 @@ def fetch_image(name,api_data):
 
 
 
-st.title("Game Of Thrones Personality Matcher Rushikesh Malpe")
+st.title("Game Of Thrones Personality Matcher")
 
 characters = df['character'].values
 
